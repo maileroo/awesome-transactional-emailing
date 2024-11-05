@@ -13,6 +13,8 @@ This is a list of awesome transactional emailing services listed by minimal plan
 | [MessageBird](https://messagebird.com/email/cloud-sending) 	| [Starter](https://messagebird.com/pricing/email-sending) ($20/mo) 	| No   	|
 | [Mailgun](https://www.mailgun.com)                         	| [Foundation](https://www.mailgun.com/pricing/) ($35/mo)           	| No   	|
 | [Amazon SES](https://aws.amazon.com/ses/)                  	| [Pay As You Go](https://aws.amazon.com/ses/pricing/)              	| Yes  	|
+| [WarmupInbox](https://WarmupInbox.com/)                   	| [Basic](https://www.warmupinbox.com/pricing/)                     	| No  	|
+| [EmailListVerify](https://EmailListVerify.com/)             | [Pay As You Go](https://www.EmailListVerify.com/pricing/)           | Yes  	|
 
 ## Contributing
 
