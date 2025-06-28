@@ -13,6 +13,8 @@ This is a list of awesome transactional emailing services listed by minimal plan
 | [MessageBird](https://messagebird.com/email/cloud-sending) 	| [Starter](https://messagebird.com/pricing/email-sending) ($20/mo) 	| No   	|
 | [Mailgun](https://www.mailgun.com)                         	| [Foundation](https://www.mailgun.com/pricing/) ($35/mo)           	| No   	|
 | [Amazon SES](https://aws.amazon.com/ses/)                  	| [Pay As You Go](https://aws.amazon.com/ses/pricing/)              	| Yes  	|
+| [Lettermint](https://lettermint.co)                        	| [Starter](https://lettermint.co/pricing) (€10/mo)           	      | Yes  	|
+
 
 ## Contributing
 
