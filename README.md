@@ -10,6 +10,7 @@ This is a list of awesome transactional emailing services listed by minimal plan
 | [Brevo](https://www.brevo.com/)                            	| [N/A](https://www.brevo.com/pricing) ($15/mo)                     	| Yes  	|
 | [Elastic Mail](https://elasticemail.com/)                  	| [Starter](https://elasticemail.com/email-api-pricing) ($19/mo)     	| Yes  	|
 | [SendGrid](https://sendgrid.com)                           	| [Essentials](https://sendgrid.com/en-us/pricing) ($19.95/mo)      	| Yes  	|
+| [SuperSend TX](https://supersendtx.com)                    	| [Pro](https://supersendtx.com/pricing) ($20/mo)                   	| Yes  	|
 | [MessageBird](https://messagebird.com/email/cloud-sending) 	| [Starter](https://messagebird.com/pricing/email-sending) ($20/mo) 	| No   	|
 | [Mailgun](https://www.mailgun.com)                         	| [Foundation](https://www.mailgun.com/pricing/) ($35/mo)           	| No   	|
 | [Amazon SES](https://aws.amazon.com/ses/)                  	| [Pay As You Go](https://aws.amazon.com/ses/pricing/)              	| Yes  	|
