@@ -6,6 +6,7 @@ This is a list of awesome transactional emailing services listed by minimal plan
 |------------------------------------------------------------	|-------------------------------------------------------------------	|------	|
 | [Maileroo](https://maileroo.com)                           	| [Basic](https://maileroo.com/pricing) ($10/mo)                     	| Yes  	|
 | [Mailkube](https://mailkube.com)                           	| [Launch](https://mailkube.com/pricing) ($6/mo)                     	| Yes  	|
+| [SpacePost](https://spacepost.dev)                          | [Pro](https://spacepost.dev/pricing) (€9/mo)                        | Yes  	|
 | [SMTP2GO](https://www.smtp2go.com)                         	| [Starter](https://www.smtp2go.com/pricing/) ($10/mo)              	| Yes  	|
 | [Postmark](https://postmarkapp.com)                        	| [N/A](https://postmarkapp.com/pricing) ($15/mo)                   	| Yes  	|
 | [Brevo](https://www.brevo.com/)                            	| [N/A](https://www.brevo.com/pricing) ($15/mo)                     	| Yes  	|
